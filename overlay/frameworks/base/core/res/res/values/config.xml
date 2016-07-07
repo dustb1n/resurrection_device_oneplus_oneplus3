@@ -405,4 +405,6 @@
     <string name="config_networkLocationProviderPackageName" translatable="false">com.qualcomm.location</string>
     <string name="config_fusedLocationProviderPackageName" translatable="false">com.qualcomm.location</string>
 
+    <!-- Enable Hardware key pref -->
+    <bool name="config_hwKeysPref">true</bool>
 </resources>
